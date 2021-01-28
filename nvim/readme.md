@@ -2,7 +2,8 @@
 
 1. Clone repo into wherever your neovim config is (Linux: `$HOME/.config/nvim/`)
 2. Run `:PlugInstall` in neovim
-3. `/dance`
+3. pip install pynvim
+4. `/dance`
 
 ## Requirements
 
